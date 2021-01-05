@@ -1,4 +1,4 @@
-# FWMAV_HoverWingbeatDynamics
+﻿# The numerical solution for flapping wing hovering wingbeat dynamics
 
 FWMAV_HoverWingbeatDynamics
 
