@@ -1,6 +1,6 @@
 ﻿# The numerical solution for flapping wing hovering wingbeat dynamics
 
-FWMAV_HoverWingbeatDynamics
+The figures of the main text are included here.
 
 The numerical solution for flapping wing hovering wingbeat dynamics
 by Xijun Ke,Weiping Zhangb,Jinhao Shi and Weidong Chen，Aerospace Science and Technology，https://doi.org/10.1016/j.ast.2020.106474
