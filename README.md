@@ -37,12 +37,12 @@ Abstract: The production of wingbeat motion of flapping wing hovering flight are
 
 ***Figure 4: The comparison of the simulated results with the experimental ones: (a) Given the measured apping angle as an input (black solid line), the simulated pitch angle (blue
 dot-dash line) and the measured pitch angle (red solid line); (b) The phase diagram for \dpsi_{sim}(t) and  \psi_{sim}(t). (c) Given the measured pitch angle as one of the inputs (black solid
-line), the simulated apping angle (blue dot-dash line) and the measured apping angle (red solid line). (d) The phase diagram for \dphi_{sim}(t) and \phi_{sim}(t).***
+line), the simulated apping angle (blue dot-dash line) and the measured apping angle (red solid line). (d) The phase diagram for \dphi_{sim}(t) and \phi_{sim}(t).***
 
 
 ![The comparison of simulated results acquired by the coupled strategy with experimental ones](https://github.com/xijunke/FWMAV_HoverWingbeatDynamics/blob/main/pic_png/Fig5.png)
 
-***Figure 5: The comparison of simulated results acquired by the coupled strategy with experimental ones: (a) the simulated apping and pitch angle are shown in red and blue solid lines, respectively, while those measured are plotted in red and blue dot-dash lines,respectively; (b) The phase plot for \dpsi_{sim}(t) and \psi_{sim}(t); (c) The phase plot for \dphi_{sim}(t) and \phi_{sim}(t).***
+***Figure 5: The comparison of simulated results acquired by the coupled strategy with experimental ones: (a) the simulated apping and pitch angle are shown in red and blue solid lines, respectively, while those measured are plotted in red and blue dot-dash lines,respectively; (b) The phase plot for \dpsi_{sim}(t) and \psi_{sim}(t); (c) The phase plot for \dphi_{sim}(t) and \phi_{sim}(t).***
 
 
 ![The peak value of simulated pitch angle changes with pitch hinge stiffness](https://github.com/xijunke/FWMAV_HoverWingbeatDynamics/blob/main/pic_png/Fig6.png)
