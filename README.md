@@ -4,7 +4,7 @@ FWMAV_HoverWingbeatDynamics
 
 # The numerical solution for flapping wing hovering wingbeat dynamics
 
-by Xijun Ke,Weiping Zhang,Jinhao Shi and Weidong Chen，Aerospace Science and Technology，
+by Xijun Ke,Weiping Zhang,Jinhao Shi and Weidong Chen，Aerospace Science and Technology
 
 https://www.sciencedirect.com/science/article/abs/pii/S1270963820311561
 
