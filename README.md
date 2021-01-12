@@ -53,7 +53,7 @@ Xijun Ke, Weiping Zhang, Jinhao Shi, Weidong Chen
 **(3) Thirdly, we performed the quantitative analysis study of wing pitch dynamic. The adjustable design rule of wing pitch motion for bioinspired FWMAV featuring passive or semi-passive pitch flexible hinge is proposed for the bionic design to actively maintain high variable AoA.**
 
 
-## All the Figures included in the main text has been listed as following：
+## All the Figures included in the main text has been listed as following:
 
 ![Fig1_Left_wing_body_model](https://github.com/xijunke/FWMAV_HoverWingbeatDynamics/blob/main/pic_png/Fig1_Left_wing_body_model_s1_4_12_2.png)
 
