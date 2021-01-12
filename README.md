@@ -8,17 +8,15 @@ https://doi.org/10.1016/j.ast.2020.106474
 
 ## Here, some parameters and coefficients cite the following paper:
 
-**[1] Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen,Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy,Aerospace Science and Technology, 2017(64), 192-203
-https://doi.org/10.1016/j.ast.2017.01.019 **
+**[1] Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen,Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy,Aerospace Science and Technology, 2017(64),192-203.https://doi.org/10.1016/j.ast.2017.01.019 **
 
-** [2] Xijun Ke and Weiping Zhang,Wing geometry and kinematic parameter optimization of flapping wing hovering flight, Applied Sciences, 2016, 6, 390, 1-35. 
-https://doi.org/10.3390/app6120390 **
+**[2] Xijun Ke and Weiping Zhang,Wing geometry and kinematic parameter optimization of flapping wing hovering flight,Applied Sciences,2016, 6,390,1-35.https://doi.org/10.3390/app6120390 **
 
 ## And the relevant codes for this paper has opened in the following URL:
 https://github.com/xijunke/FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP
 
 
-[1] Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen. "Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy", Aerospace Science and ** Technology, 2017(64), 192-203, https://doi.org/10.1016/j.ast.2017.01.019. (IF: 4.499);**
+**[1] Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen. "Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy", Aerospace Science and Technology, 2017(64), 192-203, https://doi.org/10.1016/j.ast.2017.01.019. (IF: 4.499);**
 
 **[2] Xijun Ke and Weiping Zhang,"Wing geometry and kinematic parameter optimization of flapping wing hovering flight", Applied Sciences, 2016, 6, 390, 1-35, https://doi.org/10.3390/app6120390. (IF:2.474).**
 
