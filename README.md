@@ -1,6 +1,6 @@
 ﻿# The numerical solution for flapping wing hovering wingbeat dynamics
 
-by Xijun Ke, Weiping Zhang, Jinhao Shi and Weidong Chen, Aerospace Science and Technology,110(2021),106474,(IF: 4.499).
+by Xijun Ke, Weiping Zhang, Jinhao Shi and Weidong Chen, Aerospace Science and Technology, 110(2021), 106474, (IF: 4.499).
 
 https://doi.org/10.1016/j.ast.2020.106474
 
