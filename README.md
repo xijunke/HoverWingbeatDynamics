@@ -8,17 +8,17 @@ https://doi.org/10.1016/j.ast.2020.106474
 
 ## Here, some parameters and coefficients cite the following paper:
 
-[1] Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen,Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy,Aerospace Science and Technology, 2017(64), 192-203
-https://doi.org/10.1016/j.ast.2017.01.019
+**[1] Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen,Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy,Aerospace Science and Technology, 2017(64), 192-203
+https://doi.org/10.1016/j.ast.2017.01.019 **
 
-[2] Xijun Ke and Weiping Zhang,Wing geometry and kinematic parameter optimization of flapping wing hovering flight, Applied Sciences, 2016, 6, 390, 1-35. 
-https://doi.org/10.3390/app6120390
+** [2] Xijun Ke and Weiping Zhang,Wing geometry and kinematic parameter optimization of flapping wing hovering flight, Applied Sciences, 2016, 6, 390, 1-35. 
+https://doi.org/10.3390/app6120390 **
 
-And the relevant codes for this paper has opened in the following URL:
+## And the relevant codes for this paper has opened in the following URL:
 https://github.com/xijunke/FWMAV_HoverEnergyConsumptionOptimizations_WGP_WKP
 
 
-**[1] Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen. "Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy", Aerospace Science and Technology, 2017(64), 192-203, https://doi.org/10.1016/j.ast.2017.01.019. (IF: 4.499);**
+[1] Xijun Ke, Weiping Zhang, Xuefei Cai, and Wenyuan Chen. "Wing geometry and kinematic parameter optimization of flapping wing hovering flight for minimum energy", Aerospace Science and ** Technology, 2017(64), 192-203, https://doi.org/10.1016/j.ast.2017.01.019. (IF: 4.499);**
 
 **[2] Xijun Ke and Weiping Zhang,"Wing geometry and kinematic parameter optimization of flapping wing hovering flight", Applied Sciences, 2016, 6, 390, 1-35, https://doi.org/10.3390/app6120390. (IF:2.474).**
 
@@ -55,7 +55,7 @@ Xijun Ke, Weiping Zhang, Jinhao Shi, Weidong Chen
 **(3) Thirdly, we performed the quantitative analysis study of wing pitch dynamic. The adjustable design rule of wing pitch motion for bioinspired FWMAV featuring passive or semi-passive pitch flexible hinge is proposed for the bionic design to actively maintain high variable AoA.**
 
 
-
+## All the Figures included in the main text has been listed as following：
 
 ![Fig1_Left_wing_body_model](https://github.com/xijunke/FWMAV_HoverWingbeatDynamics/blob/main/pic_png/Fig1_Left_wing_body_model_s1_4_12_2.png)
 
